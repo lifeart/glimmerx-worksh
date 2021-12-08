@@ -1,0 +1,10 @@
+{
+    "editor.showUnused": false,
+    "css.customData": [".vscode/css_custom_data.json"],
+    "hbs.tags": [
+        "hbs"
+    ],
+    "cSpell.words": [
+        "glimmerx"
+    ]
+}
